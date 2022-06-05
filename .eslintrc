@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-rallycoding",
+  "rules": {
+    "quotes": [2, "double", { "avoidEscape": true }]
+  }
+}
